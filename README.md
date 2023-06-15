@@ -24,7 +24,8 @@ INPUT
     102003135: 1
    
     OUTPUT 
-Roll_no. : Marks 
+Roll_no. : Marks
+
 102003643:1
 
 102003640:3
